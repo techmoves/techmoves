@@ -4,9 +4,7 @@
 ![Untitled video - Made with Clipchamp](https://github.com/techmoves/techmoves/assets/110924992/e40aa9b2-e994-48b7-a5aa-856f53b925d2) 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmoves&label=Profile%20views&color=0e75b6&style=flat" alt="techmoves" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techmoves" alt="techmoves" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dopezonke" target="blank"><img src="https://img.shields.io/twitter/follow/dopezonke?logo=twitter&style=for-the-badge" alt="dopezonke" /></a> </p>
 
@@ -31,3 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techmoves&" alt="techmoves" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmoves&label=Profile%20views&color=0e75b6&style=flat" alt="techmoves" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techmoves" alt="techmoves" /></a> </p>
